@@ -63,6 +63,5 @@ This project focuses on analyzing a dataset related to factors influencing lung 
     - Initial analysis revealed no missing values, allowing for straightforward preprocessing.
     - Strong correlations were found between Lung Cancer diagnosis and symptoms like **Chest Pain, Shortness of Breath, and Coughing**.
     - The trained Logistic Regression model demonstrated high confidence in predicting lung cancer for a new data point based on these key indicators.
-    - *(You can elaborate on 2-3 most impactful insights here, keeping it concise for the README)*
 
 
